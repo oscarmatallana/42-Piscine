@@ -1,4 +1,4 @@
-C02:
+/*C02:
 - ex00: Reproduce the behavior of the function strcpy.
 - ex01: Reproduce the behavior of the function strncpy.
 - ex02: Create a function that returns 1 if the given string contains only alphabetical characters and 0 if it contains any other character. It should return 1 if str is empty.
@@ -165,4 +165,4 @@ row2left row3left row4left row1right row2right row3right row4right"
 • Refer to appendix 2 and 3 for a flat vision, and appendix 4 for a 3D vision.
 • In case of an error or if you cannot find any solutions, display "Error" followed by a newline.
 • If you want bonus points, you may try to handle other map sizes (up to 9x9).
-• As usual, if a bonus works but the mandatory one fails the tests, you will receive a score of 0.
+• As usual, if a bonus works but the mandatory one fails the tests, you will receive a score of 0.*/
