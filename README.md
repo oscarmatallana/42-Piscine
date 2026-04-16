@@ -104,9 +104,13 @@ lrwxrwxrwx 1 XX XX 5 Jun 1 22:20 test6 -> test0
 • Update your SSH key on the intranet. This will allow you to push the repository to our git server.
 
 - ex04: midLS:
+  
 • In a file named midLS, write the command that lists all files and directories in your current directory (excluding hidden files or any file starting with a dot, including double dots).
+
 • The output should be sorted by modification date, with entries separated by a comma and a space.
+
 • Directory names should end with a slash (/).
+
 - ex05: GiT commit:
 
 • Create a shell script that displays the ids of the last 5 commits in your git repository.
