@@ -51,7 +51,9 @@ CPC00_R1:
 - ex03: Create a function that displays all digits on a single line, in ascending order.
 - ex04: Create a function that displays ’N’ or ’P’ depending on the sign of the integer passed as a parameter. If n is negative, display ’N’. If n is positive or zero, display ’P’.
 - ex05: Create a function that displays all unique combinations of three distinct digits, with both the digits within each combination and the combinations themselves in ascending order:
+  
 • 987 is not included because 789 already covers that combination.
+
 • 999 is not included because the digit 9 appears more than once.
 
 • Expected output:
