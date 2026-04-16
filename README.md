@@ -28,6 +28,7 @@ C04_R1:
 • The function should then process any consecutive digits in base 10.
 • The function reads the string until a non-conforming character is encountered and returns the number obtained so far.
 • Overflow and underflow do not need to be handled; the function’s return value is undefined in such cases.
+
 • Example Program Output:
 $>./a.out " ---+--+1234ab567"
 -1234
