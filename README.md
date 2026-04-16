@@ -143,6 +143,7 @@ CBBA
 $>
 
 Rush - ex01:
+
 • Your source code will be compiled as follows: cc -Wall -Wextra -Werror -o
 rush01 *.c.
 • Your submission directory must contain all files required to compile your program.
@@ -153,16 +154,19 @@ rush01 *.c.
 • "col1top" represents the value for the left column upper point of view, etc. Refer to appendix 1 to see what represents each element.
 • Each element of the string is a number ranging between ’1’ and ’4’.
 • This is the only acceptable input for your program. Any other input must be considered an error.
+
 • Here is an example of intended input/output for a valid set.
 ./rush01 "4 3 2 1 1 2 2 2 4 3 2 1 1 2 2 2" | cat -e
 1 2 3 4$
 2 3 4 1$
 3 4 1 2$
 4 1 2 3$
+
 • Refer to appendix 2 and 3 for a flat vision, and appendix 4 for a 3D vision.
 • In case of an error or if you cannot find any solutions, display "Error" followed by a newline.
 • If you want bonus points, you may try to handle other map sizes (up to 9x9).
 • As usual, if a bonus works but the mandatory one fails the tests, you will receive a score of 0.
+
 • Here is how we will launch your program:
 > ./rush01 "col1top col2top col3top col4top col1bottom col2bottom col3bottom col4bottom row1left
 row2left row3left row4left row1right row2right row3right row4right"
