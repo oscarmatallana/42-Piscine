@@ -11,12 +11,14 @@ C02:
 - ex09: Create a function that capitalizes the first letter of each word and converts all other
 letters to lowercase. A word is a sequence of alphanumeric characters. It should return str.
 
+
 C03_R1:
 - ex00: Reproduce the behavior of the function strcmp.
 - ex01: Reproduce the behavior of the function strncmp.
 - ex02: Reproduce the behavior of the function strcat.
 - ex03: Reproduce the behavior of the function strncat.
 - ex04: Reproduce the behavior of the function strstr.
+
 
 C04_R1:
 - ex00: Create a function that counts and returns the number of characters in a string.
@@ -38,11 +40,13 @@ C04_R1:
 $>./a.out " ---+--+1234ab567"
 -1234
 
+
 C06:
 - ex00: Write a program that displays its own name, followed by a new line.
 - ex01: Write a program that displays its given arguments. Each argument should be printed on a new line, in the same order as in the command line. The program should display all arguments except argv[0].
 - ex02: Write a program that displays its given arguments. Each argument should be printed on a new line, in the reverse order from the command line. The program should display all arguments except argv[0].
 - ex03: Write a program that displays its given arguments sorted in ASCII order. The program should display all arguments except argv[0]. Each argument should be printed on a new line.
+
 
 CPC00_R1:
 - ex00: Write a function that displays the character passed as a parameter. To display the character, you must use the write function.
@@ -60,6 +64,7 @@ CPC00_R1:
 $>./a.out | cat -e
 012, 013, 014, 015, 016, 017, 018, 019, 023, ..., 789$>
 
+
 CPC01:
 - ex00: Create a function that takes a pointer to an int as a parameter and sets the value of that int to "42".
 - ex01: Create a function that takes a pointer to a pointer to a pointer to a pointer to a pointer to a pointer to a pointer to a pointer to a pointer to an int as a parameter and sets the value of that int to “42”.
@@ -67,6 +72,7 @@ CPC01:
 - ex03: Create a function ft_div_mod. This function divides ‘a’ by ‘b’ and stores the result in the integer pointed to by ‘div’. It also stores the remainder of the division of ‘a’ by ‘b’ in the integer pointed to by ‘mod’.
 - ex04: Create a function ft_ultimate_div_mod. This function divides the value pointed to by ‘a’ by the value pointed to by ‘b’. The result of the division is stored in the integer pointed to by ‘a’, while the remainder is stored in the integer pointed to by ‘b’.
 - ex05: Create a function that displays a string of characters on the standard output.
+
 
 CPShell00_1:
 - ex00: Create a file called z that returns "Z", followed by a new line, whenever the cat command is used on it.
@@ -130,6 +136,7 @@ ExamPractice:
 - practice: Rehearsing and trying things.
 
 
+
 Rush - ex00:
 
 Your program must display a rectangle on the screen and follow these requirements:
@@ -177,6 +184,7 @@ B B
 B B
 CBBA
 $>
+
 
 
 Rush - ex01:
