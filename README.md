@@ -23,10 +23,15 @@ C04_R1:
 - ex01: Create a function that prints a string of characters to the standard output.
 - ex02: Create a function that displays the number passed as a parameter. The function must be able to handle all possible values of the int type. Example: ft_putnbr(42) outputs "42".
 - ex03: Write a function that converts the initial portion of the string pointed to by str into its integer representation:
+  
 • The string may begin with an arbitrary amount of whitespace (as determined by isspace(3)).
+
 • The string may be preceded by an arbitrary number of ‘+’ and ‘-’ signs. A ‘-’ sign will invert the result depending on whether the number of ‘-’ signs is odd or even.
+
 • The function should then process any consecutive digits in base 10.
+
 • The function reads the string until a non-conforming character is encountered and returns the number obtained so far.
+
 • Overflow and underflow do not need to be handled; the function’s return value is undefined in such cases.
 
 • Example Program Output:
