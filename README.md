@@ -107,33 +107,43 @@ ExamPractice:
 
 Rush - ex00:
 Your program must display a rectangle on the screen and follow these requirements:
+
 • Files to submit: main.c, ft_putchar.c, rush0X.c, where "0X" represents the rush number (e.g., rush00.c).
+
 • These three files will be compiled together.
+
 • The ft_putchar.c file must contain the ft_putchar function.
+
 • Example of main.c file:
+
 int main()
 {
 rush(5, 5);
 return (0);
 }
+
 • rush(5, 3) should display:
 $>./a.out
 ABBBC
 B B
 CBBBA
 $>
+
 • rush(5, 1) should display:
 $>./a.out
 ABBBC
 $>
+
 • rush(1, 1) should display:
 $>./a.out
 A
 $>
+
 • rush(1, 5) should display:
 $>./a.out
 ABBBC
 $>
+
 • rush(4, 4) should display:
 $>./a.out
 ABBC
