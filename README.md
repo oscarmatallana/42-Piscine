@@ -105,7 +105,9 @@ ExamPractice:
 - main.arg: Play with basic arguments in C.
 - practice: Rehearsing and trying things.
 
+
 Rush - ex00:
+
 Your program must display a rectangle on the screen and follow these requirements:
 
 • Files to submit: main.c, ft_putchar.c, rush0X.c, where "0X" represents the rush number (e.g., rush00.c).
@@ -151,6 +153,7 @@ B B
 B B
 CBBA
 $>
+
 
 Rush - ex01:
 
