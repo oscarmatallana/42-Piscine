@@ -47,6 +47,7 @@ CPC00_R1:
 - ex05: Create a function that displays all unique combinations of three distinct digits, with both the digits within each combination and the combinations themselves in ascending order:
 • 987 is not included because 789 already covers that combination.
 • 999 is not included because the digit 9 appears more than once.
+
 • Expected output:
 $>./a.out | cat -e
 012, 013, 014, 015, 016, 017, 018, 019, 023, ..., 789$>
@@ -62,14 +63,18 @@ CPC01:
 CPShell00_1:
 - ex00: Create a file called z that returns "Z", followed by a new line, whenever the cat command is used on it.
 - ex01: Create a file called testShell00 in your submission directory.
+
 • Figure out a way to make the output look like this (except for the "total 1" line):
 %> ls -l
 total 1
 -r--r-xr-x 1 XX XX 40 Jun 1 23:42 testShell00
 %>
+
 • Once you’ve achieved the previous steps, execute the following command to create the file to be submitted:
 %> tar -cf testShell00.tar testShell00
+
 - ex02: Create the following files and directories. Adjust their properties so that when you run the ls -l command in your directory, the output looks like this:
+
 %> ls -l
 total XX
 drwx--xr-x 2 XX XX XX Jun 1 20:47 test0
@@ -80,8 +85,10 @@ dr-x---r-- 2 XX XX XX Jun 1 22:45 test2
 -r-----r-- 2 XX XX 1 Jun 1 23:44 test5
 lrwxrwxrwx 1 XX XX 5 Jun 1 22:20 test6 -> test0
 %>
+
 • Once you’ve completed this, run the following command to create the file to be submitted:
 %> tar -cf exo2.tar *
+
 - ex03: Create your own SSH key. Once done:
 • Add your public key to your repository in a file named id_rsa_pub.
 • Update your SSH key on the intranet. This will allow you to push the repository to our git server.
@@ -90,6 +97,7 @@ lrwxrwxrwx 1 XX XX 5 Jun 1 22:20 test6 -> test0
 • The output should be sorted by modification date, with entries separated by a comma and a space.
 • Directory names should end with a slash (/).
 - ex05: GiT commit:
+
 • Create a shell script that displays the ids of the last 5 commits in your git repository.
 %> bash git_commit.sh | cat -e
 baa23b54f0adb7bf42623d6d0a6ed4587e11412a$
@@ -98,6 +106,7 @@ baa23b54f0adb7bf42623d6d0a6ed4587e11412a$
 5ddc8474f4f15b3fcb72d08fcb333e19c3a27078$
 e94d0b448c03ec633f16d84d63beaef9ae7e7be8$
 %>
+
 • Your script will be tested in our own environment.
 
 ExamPractice:
