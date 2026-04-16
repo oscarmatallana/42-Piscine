@@ -221,8 +221,6 @@ rush01 *.c.
 
 • If you want bonus points, you may try to handle other map sizes (up to 9x9).
 
-• As usual, if a bonus works but the mandatory one fails the tests, you will receive a score of 0.
-
 • Here is how we will launch your program:
 > ./rush01 "col1top col2top col3top col4top col1bottom col2bottom col3bottom col4bottom row1left
 row2left row3left row4left row1right row2right row3right row4right"
