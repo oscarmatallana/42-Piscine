@@ -1,6 +1,6 @@
 # 📘 Project Overview
 
-This repository contains a collection of exercises and projects completed during my Piscine and core training at 42 Berlin 🚀
+This repository contains a collection of exercises and projects completed during my Piscine at 42 Berlin 🚀
 
 The focus of these projects is not only to learn the C language, but also to develop a strong understanding of:
 - low-level programming
