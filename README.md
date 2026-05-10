@@ -1,4 +1,4 @@
-# 📘 Project Overview
+# Project Overview
 
 This repository contains a collection of exercises and projects completed during my Piscine at 42 Berlin 🚀
 
