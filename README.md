@@ -1,6 +1,6 @@
 # Project Overview
 
-This repository contains a collection of exercises and projects completed during my Piscine at 42 Berlin 🚀
+This repository contains a collection of exercises and projects completed during my Piscine at 42 Berlin.
 
 The focus of these projects is not only to learn the C language, but also to develop a strong understanding of:
 - low-level programming
@@ -10,7 +10,7 @@ The focus of these projects is not only to learn the C language, but also to dev
 - problem-solving under constraints
 - clean and structured coding practices
 
-Many exercises intentionally restrict the use of standard libraries and functions, encouraging a deeper understanding of what happens “under the hood” 🔧
+Many exercises intentionally restrict the use of standard libraries and functions, encouraging a deeper understanding of how the code really works.
 
 ---
 
@@ -60,7 +60,7 @@ Projects include:
 - displaying arguments in normal and reverse order
 - sorting arguments in ASCII order
 
-Simple concepts — surprisingly useful everywhere.
+Simple concepts, surprisingly useful everywhere.
 
 ---
 
