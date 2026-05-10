@@ -14,7 +14,7 @@ Many exercises intentionally restrict the use of standard libraries and function
 
 ---
 
-# C02 — String Manipulation & Validation
+# C02: String Manipulation & Validation
 
 Working with strings in C means working close to memory — carefully and precisely.
 
@@ -27,7 +27,7 @@ In short: teaching strings some manners.
 
 ---
 
-# C03 — String Comparison & Search
+# C03: String Comparison & Search
 
 This module continues the exploration of C strings by rebuilding functions such as:
 - `strcmp()`
@@ -40,7 +40,7 @@ A hands-on dive into comparisons, concatenation, and substring searching without
 
 ---
 
-# C04 — Basic I/O & Number Handling
+# C04: Basic I/O & Number Handling
 
 Here the focus shifts toward:
 - displaying characters, strings, and numbers
@@ -51,7 +51,7 @@ A great exercise in understanding how computers interpret text as numbers.
 
 ---
 
-# C06 — Command-Line Arguments
+# C06: Command-Line Arguments
 
 This module introduces command-line arguments (`argc` / `argv`) and explores how programs interact with terminal input.
 
@@ -64,7 +64,7 @@ Simple concepts, surprisingly useful everywhere.
 
 ---
 
-# CPC00 — The Very First Steps in C
+# CPC00: The Very First Steps in C
 
 The foundations.
 
@@ -78,7 +78,7 @@ Sometimes the smallest exercises teach the biggest lessons.
 
 ---
 
-# CPC01 — Pointers & Memory Basics
+# CPC01: Pointers & Memory Basics
 
 Welcome to pointers — one of the most powerful (and intimidating) concepts in C.
 
@@ -93,7 +93,7 @@ This module is where C starts feeling *really* low-level.
 
 ---
 
-# CPShell00 — Linux & Shell Fundamentals
+# CPShell00: Linux & Shell Fundamentals
 
 An introduction to working in Unix/Linux environments through shell exercises.
 
@@ -125,7 +125,7 @@ Including classics like:
 
 ---
 
-# Rush00 — Drawing with Code
+# Rush00: Drawing with Code
 
 A fun introduction to procedural generation in C.
 
@@ -137,7 +137,7 @@ Simple on paper. Surprisingly satisfying in practice.
 
 ---
 
-# Rush01 — Basic Skyscrapers Puzzle Solver
+# Rush01: Basic Skyscrapers Puzzle Solver
 
 A logic puzzle solver written in C.
 
