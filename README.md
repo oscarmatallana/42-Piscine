@@ -14,7 +14,7 @@ Many exercises intentionally restrict the use of standard libraries and function
 
 ---
 
-# 🧩 C02 — String Manipulation & Validation
+# C02 — String Manipulation & Validation
 
 Working with strings in C means working close to memory — carefully and precisely.
 
@@ -23,11 +23,11 @@ This module focuses on:
 - validating character types (alphabetic, numeric, uppercase, lowercase, printable)
 - transforming strings (uppercase, lowercase, capitalization)
 
-In short: teaching strings some manners 😄
+In short: teaching strings some manners.
 
 ---
 
-# 🔍 C03 — String Comparison & Search
+# C03 — String Comparison & Search
 
 This module continues the exploration of C strings by rebuilding functions such as:
 - `strcmp()`
@@ -40,18 +40,18 @@ A hands-on dive into comparisons, concatenation, and substring searching without
 
 ---
 
-# 🔢 C04 — Basic I/O & Number Handling
+# C04 — Basic I/O & Number Handling
 
 Here the focus shifts toward:
 - displaying characters, strings, and numbers
 - converting strings into integers (`atoi`)
 - handling signs, whitespace, and parsing logic manually
 
-A great exercise in understanding how computers interpret text as numbers 🧠
+A great exercise in understanding how computers interpret text as numbers.
 
 ---
 
-# 🖥️ C06 — Command-Line Arguments
+# C06 — Command-Line Arguments
 
 This module introduces command-line arguments (`argc` / `argv`) and explores how programs interact with terminal input.
 
@@ -64,7 +64,7 @@ Simple concepts — surprisingly useful everywhere.
 
 ---
 
-# ⚙️ CPC00 — The Very First Steps in C
+# CPC00 — The Very First Steps in C
 
 The foundations.
 
@@ -78,9 +78,9 @@ Sometimes the smallest exercises teach the biggest lessons.
 
 ---
 
-# 🧠 CPC01 — Pointers & Memory Basics
+# CPC01 — Pointers & Memory Basics
 
-Welcome to pointers — one of the most powerful (and intimidating 😅) concepts in C.
+Welcome to pointers — one of the most powerful (and intimidating) concepts in C.
 
 Topics include:
 - manipulating values through memory addresses
@@ -93,7 +93,7 @@ This module is where C starts feeling *really* low-level.
 
 ---
 
-# 🐚 CPShell00 — Linux & Shell Fundamentals
+# CPShell00 — Linux & Shell Fundamentals
 
 An introduction to working in Unix/Linux environments through shell exercises.
 
@@ -109,7 +109,7 @@ Because software engineering also means understanding the environment where soft
 
 ---
 
-# 🧪 ExamPractice
+# ExamPractice
 
 A collection of small practice exercises focused on:
 - logic
@@ -125,7 +125,7 @@ Including classics like:
 
 ---
 
-# 🏗️ Rush00 — Drawing with Code
+# Rush00 — Drawing with Code
 
 A fun introduction to procedural generation in C.
 
@@ -137,7 +137,7 @@ Simple on paper. Surprisingly satisfying in practice.
 
 ---
 
-# 🏙️ Rush01 — Skyscrapers Puzzle Solver
+# Rush01 — Basic Skyscrapers Puzzle Solver
 
 A logic puzzle solver written in C.
 
@@ -152,4 +152,4 @@ This project explores:
 - algorithmic reasoning
 - structured problem decomposition
 
-The kind of puzzle that starts innocent… and quickly becomes addictive 😄
+The kind of puzzle that starts innocent and quickly becomes addictive.
