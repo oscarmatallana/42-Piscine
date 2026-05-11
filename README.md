@@ -16,7 +16,7 @@ Many exercises intentionally restrict the use of standard libraries and function
 
 # C02: String Manipulation & Validation
 
-Working with strings in C means working close to memory — carefully and precisely.
+Working with strings in C means working close to memory, carefully and precisely.
 
 This module focuses on:
 - recreating standard string functions such as `strcpy()` and `strncpy()`
@@ -80,7 +80,7 @@ Sometimes the smallest exercises teach the biggest lessons.
 
 # CPC01: Pointers & Memory Basics
 
-Welcome to pointers — one of the most powerful (and intimidating) concepts in C.
+Welcome to pointers, one of the most powerful (and intimidating) concepts in C.
 
 Topics include:
 - manipulating values through memory addresses
