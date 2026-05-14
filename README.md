@@ -153,3 +153,21 @@ This project explores:
 - structured problem decomposition
 
 The kind of puzzle that starts innocent and quickly becomes addictive.
+
+## Rush participants
+
+Rush projects at 42 are designed to simulate real collaborative development under time pressure.  
+This project was developed as a group effort together with:
+
+- [Diana Bali](https://github.com/dianabali)
+- [Jony Dev](https://github.com/devjony)
+- [Mario Guzmán](https://github.com/marioguzzzman)
+
+Working in teams during the Rush projects helped us practice:
+- peer-to-peer collaboration
+- task coordination
+- problem decomposition
+- debugging under pressure
+- collaborative project delivery
+
+A small project, but an excellent introduction to teamwork and structured problem-solving in software development.
