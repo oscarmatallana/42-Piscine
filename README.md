@@ -157,7 +157,7 @@ The kind of puzzle that starts innocent and quickly becomes addictive.
 ## Rush participants
 
 Rush projects at 42 are designed to simulate real collaborative development under time pressure.  
-This project was developed as a group effort together with:
+My rush projects were developed as a group effort together with:
 
 - [Diana Bali](https://github.com/dianabali)
 - [Jony Dev](https://github.com/devjony)
